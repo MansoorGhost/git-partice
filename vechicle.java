@@ -1,0 +1,5 @@
+interface  Vechicle
+ {
+   void start();
+ }
+}
